@@ -1,0 +1,14 @@
+.col1{
+    width: 200px; 
+    border-right: 1px solid #000;
+}
+.col3{
+    width: 300px;
+    border-left: 1px solid #000;
+}
+
+.height-web{
+    overflow-y: hidden;
+    height: 100vh;
+    width:  100vw;
+}
